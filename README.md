@@ -32,7 +32,7 @@ We isolate a reliable **45% subset** of the data for further analysis to ensure 
 ### 2. Nutritional Efficiency Index (NEI)
 
 The NEI is calculated as a weighted combination of nutrient densities:
-![image](https://github.com/user-attachments/assets/ff30a21e-fdd5-4221-80e9-f47027c0324c)
+![image](https://github.com/user-attachments/assets/6df19bf1-6781-4af5-af62-c2648a0f7268)
 
 This formulation prioritizes nutrients based on physiological importance and scarcity in average diets.
 
